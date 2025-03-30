@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
+repository: cosmoscollege/cosmoscollege.github.io
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -33,6 +34,7 @@ defaults:
       layout: "team"
 
 sass:
+  sass_dir: _sass
   style: compressed # possible values: nested expanded compact compressed
 
 plugins:

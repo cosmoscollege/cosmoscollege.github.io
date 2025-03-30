@@ -6,3 +6,4 @@ gem "jekyll-environment-variables"
 gem 'jekyll-sass-converter'
 gem "faraday-retry"
 gem "github-pages", group: :jekyll_plugins
+gem "sassc"
